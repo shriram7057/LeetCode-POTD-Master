@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shriram Lahane
+# 👋 Hi, I'm Shriram 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="180" />
   &nbsp;&nbsp;&nbsp;
