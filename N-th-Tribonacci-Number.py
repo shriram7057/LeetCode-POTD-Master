@@ -1,13 +1,14 @@
-class Solution(object):
-    def tribonacci(self, n):
-        if n == 0:
-            return 0
-        if n == 1 or n == 2:
-            return 1
-
-        t0, t1, t2 = 0, 1, 1
-
-        for _ in range(3, n + 1):
-            t0, t1, t2 = t1, t2, t0 + t1 + t2
-
-        return t2
+1class Solution(object):
+2    def tribonacci(self, n):
+3        if n == 0:
+4            return 0
+5        if n == 1 or n == 2:
+6            return 1
+7
+8        a, b, c = 0, 1, 1
+9        for _ in range(3, n + 1):
+10            d = a + b + c
+11            a, b, c = b, c, d
+12
+13        return c
+14
