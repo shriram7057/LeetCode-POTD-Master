@@ -12,22 +12,49 @@
 <h1 align="center">Welcome to my LeetCode Solutions Repository! 🎯  
 I solve LeetCode problems every day to master Data Structures & Algorithms.
 </h1>
----
-About This Repository
 
-- 📅 **Daily LeetCode Challenge:** 2 problems / day  
--  **Languages Used:**  
+🚀 About This Repository
 
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-</p>
+Welcome to my Daily LeetCode Challenge Repository, where I consistently sharpen my problem-solving and algorithmic skills through structured practice.
 
-- 📚 **Topics Covered:** Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking, Math, Stack, Queue & more.
+📅 Daily Commitment
+
+LeetCode problems solved every day
+
+Focused on building consistency, speed, and accuracy
+
+💻 Languages Used
+<p align="left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/> </p>
+
+📚 Topics Covered
+
+Arrays & Strings
+
+Hashing & Prefix Sums
+
+Linked Lists, Stacks & Queues
+
+Trees & Binary Search Trees
+
+Graphs (BFS / DFS)
+
+Dynamic Programming
+
+Backtracking & Recursion
+
+Math & Bit Manipulation
+
+And many more core Data Structures & Algorithms
+
+🎯 Purpose
+
+Strengthen DSA fundamentals
+
+Prepare for technical interviews
+
+Track daily progress and growth
+
+Maintain clean, readable, and optimized solutions
 
 ## 🏅 Achievements
 
