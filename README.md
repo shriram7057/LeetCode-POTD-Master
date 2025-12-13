@@ -3,6 +3,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="180" />
   &nbsp;&nbsp;&nbsp;
  <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Daily%20coin.gif?raw=true" width="180" />
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%20POTD%20Ani.gif?raw=true" width="220" />
+
 </p>
 
 
