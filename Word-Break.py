@@ -1,13 +1,16 @@
-class Solution(object):
-    def wordBreak(self, s, wordDict):
-        wordSet = set(wordDict)
-        dp = [False] * (len(s) + 1)
-        dp[0] = True
-
-        for i in range(len(s) + 1):
-            if dp[i]:
-                for w in wordSet:
-                    if s.startswith(w, i):
-                        dp[i + len(w)] = True
-
-        return dp[len(s)]
+1class Solution:
+2    def wordBreak(self, s: str, wordDict):
+3        wordSet = set(wordDict)
+4        n = len(s)
+5
+6        dp = [False] * (n + 1)
+7        dp[0] = True
+8
+9        for i in range(1, n + 1):
+10            for j in range(i):
+11                if dp[j] and s[j:i] in wordSet:
+12                    dp[i] = True
+13                    break
+14
+15        return dp[n]
+16
